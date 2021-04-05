@@ -1,2 +1,2 @@
-# GenicCapture
-Protocol and Scripts associated with Genic Capture Method
+# ExtendedExomeCapture
+Protocol and Scripts associated with Extended Exome Capture Method
