@@ -1,2 +1,2 @@
 # ExtendedExomeCapture
-Protocol and Scripts associated with Extended Exome Capture Method
+Protocol associated with Extended Exome Capture Method, presented at University of Miami Research Symposium
